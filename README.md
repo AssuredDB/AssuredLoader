@@ -1,2 +1,2 @@
 # AssuredLoader
-Cool
+Do not steal any sources we make.
